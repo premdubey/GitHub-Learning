@@ -4,7 +4,11 @@ empty.txt
 ram
 access.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 testingfile.txt
+=======
+
+>>>>>>> a461bed... First Time
 =======
 
 >>>>>>> a461bed... First Time
