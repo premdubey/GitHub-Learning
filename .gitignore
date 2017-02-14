@@ -3,4 +3,8 @@ prem.txt
 empty.txt
 ram
 access.txt
+<<<<<<< HEAD
 testingfile.txt
+=======
+
+>>>>>>> a461bed... First Time
